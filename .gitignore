@@ -1,0 +1,19 @@
+.DS_Store
+
+.env.local
+**/.env.local
+
+node_modules/
+**/node_modules/
+dist/
+**/dist/
+bericht/build/
+bericht/
+tmp/
+
+*.zip
+3D Graphik und Visualisierung.pdf
+Cesium_DE.pdf
+Studienarbeit.pdf
+
+screenshots/
